@@ -28,6 +28,7 @@
 ![image](https://user-images.githubusercontent.com/105056762/209356347-5f0e20b1-9796-4a55-a456-fe422a71c987.png)
 
    3.2. PROCEDIMIENTO
+   
   - Arme el circuito que se muestra en la figura 4.1.
   
   ![image](https://user-images.githubusercontent.com/105056762/209356619-36917288-5062-49bf-ad99-8e61f2c6b407.png)
@@ -54,16 +55,23 @@
 
    Tabla 4.1. Medición de voltaje aplicando superposición.
    
-   ![image](https://user-images.githubusercontent.com/105020538/209360473-b04fcc06-9129-4e06-a561-d988592b7e97.png)
+   ![Imagen de WhatsApp 2022-12-23 a las 10 30 18](https://user-images.githubusercontent.com/105056762/209360882-eeba8fe9-f684-4971-819c-b4f6b7cd48f9.jpg)
 
    Tabla 4.2. Medición de corriente aplicando superposición.
    
-  ![image](https://user-images.githubusercontent.com/105020538/209360531-789dfed0-87fa-481a-af4f-cf374583a65b.png)
+   ![Imagen de WhatsApp 2022-12-23 a las 10 31 10](https://user-images.githubusercontent.com/105056762/209360915-dca4a320-6383-42cb-acae-a068708c4f07.jpg)
+
+   - Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente.
    
-   - Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.
-Calcular errores de las mediciones y comentar los resultados.
+   ![image](https://user-images.githubusercontent.com/105056762/209360523-9135cf0c-a48f-4821-8a40-044cffcd5f68.png)
+   
+   ![image](https://user-images.githubusercontent.com/105056762/209360548-5f78b850-5b6e-4917-be0a-7886a22d08d3.png)
+   
+   ![image](https://user-images.githubusercontent.com/105056762/209360785-eef6eb9b-3d0f-4878-a237-7ec1ac568c1f.png)
+
 4.	CÁLCULO DEL ERROR
+
+![image](https://user-images.githubusercontent.com/105056762/209359925-6bc9a66f-d574-499b-96a7-5f436638ea07.png)
 
 5.	VIDEO
 
